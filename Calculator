@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b,c,d,e,f,g;
+clrscr();
+Printf"Enter 3 Number";
+scanf"%d%d%d",&a,&b,&c;
+d=a+b+c;
+e=a-b-c;
+f=a*b*c;
+g=a/b/c;
+printf"Your Result is"%d d,e,f,g;
+Getch();
